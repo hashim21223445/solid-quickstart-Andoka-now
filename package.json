@@ -10,7 +10,7 @@
     "cypress": "^15.8.1",
     "solid-start-netlify": "^0.3.11",
     "typescript": "^5.7.2",
-    "vite": "^7.1.11"
+    "vite": "^8.3.5"
   },
   "dependencies": {
     "@solidjs/meta": "^0.29.4",
